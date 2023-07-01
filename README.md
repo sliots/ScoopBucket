@@ -1,23 +1,20 @@
-# Scoop Bucket Template
+# Scoop Bucket
 
 <!-- Uncomment the following line after replacing placeholders -->
-<!-- [![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml) -->
-
-Template bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
+<!-- [![Tests](https://github.com/Sliots/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Sliots/scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/Sliots/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Sliots/scoop-bucket/actions/workflows/excavator.yml) -->
 
 How do I install these manifests?
 ---------------------------------
 
-To add this bucket, run `scoop bucket add <bucketname> https://github.com/<username>/<bucketname>`. To install, do `scoop install <manifest>`.
+To add this bucket, run `scoop bucket add Sliots-scoop-bucket https://github.com/Sliots/scoop-bucket`. To install, do `scoop install <manifest>`.
 
-How do I contribute new manifests?
-----------------------------------
 
-To make a new manifest contribution, please read the [Contributing Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md).
-
-----
-
-#### To use this template
-
-- Modify the Readme.md and the bin/auto-pr.ps1 files accordingly.
-- Enable GitHub Actions for this repository.
+| manifest | Link / Desc |
+| --- | --- |
+| BilibiliDown | [哔哩哔哩视频下载器](https://github.com/nICEnnnnnnnLee/BilibiliDown) |
+| Bundletool | [Android App Bundle Tool](https://github.com/google/bundletool) |
+| CompactGUI | [Compact 压缩功能图形化工具](https://github.com/IridiumIO/CompactGUI) |
+| dlsite-doujin-renamer | [DLsite 同人作品重命名工具](https://github.com/yodhcn/dlsite-doujin-renamer) |
+| exhentai-manga-manager-portable | [ExHentai本地漫画标签管理阅读应用](https://github.com/SchneeHertz/exhentai-manga-manager) |
+| PhotoTimeFix | [照片错误时间修复](https://github.com/Cryolitia/PhotoTimeFix) |
+| SynologyCloudSyncDecryptionTool | [Cloud Sync 加密数据进行解密的桌面工具](https://www.synology.cn/zh-cn/releaseNote/SynologyCloudSyncDecryptionTool) |
