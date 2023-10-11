@@ -22,7 +22,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/SchneeHertz/exhentai-manga-manager/releases/download/v$version/exhentai-manga-manager.portable.$version.zip",
-        "extract_dir": "exhentai-manga-manager portable $version"
+        "url": "https://github.com/SchneeHertz/exhentai-manga-manager/releases/download/v$version/exhentai-manga-manager-$version-win.zip"
     }
 }
