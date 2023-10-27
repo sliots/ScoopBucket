@@ -31,3 +31,4 @@ wiki page.
 | SynologyCloudSyncDecryptionTool | [Cloud Sync 加密数据进行解密的桌面工具](https://www.synology.cn/zh-cn/releaseNote/SynologyCloudSyncDecryptionTool) |
 | PortProxyGUI                    | [PortProxyGUI](https://github.com/zmjack/PortProxyGUI) / Windows 上的 TCP/IP 端口重定向                           |
 | EasySpider                      | [EasySpider](https://github.com/NaiboWang/EasySpider) / 易采集                                                   |
+| fetch-github-hosts              | [fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) / 同步github的hosts工具                        |
