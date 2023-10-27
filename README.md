@@ -32,3 +32,4 @@ wiki page.
 | PortProxyGUI                    | [PortProxyGUI](https://github.com/zmjack/PortProxyGUI) / Windows 上的 TCP/IP 端口重定向                           |
 | EasySpider                      | [EasySpider](https://github.com/NaiboWang/EasySpider) / 易采集                                                   |
 | fetch-github-hosts              | [fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) / 同步github的hosts工具                        |
+| arc_unpacker                    | [arc_unpacker](https://github.com/vn-tools/arc_unpacker) / 视觉小说解包（已归档）                                 |
