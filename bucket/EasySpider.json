@@ -7,7 +7,7 @@
         "64bit": {
             "url": "https://github.com/NaiboWang/EasySpider/releases/download/v0.5.0/EasySpider_0.5.0_windows_x64.7z",
             "hash": "7040c34cfd0af1eb9ddce9f8025ef1b14d2b038836bd7e735701f4f1c2210088",
-            "extract_dir": "EasySpider_0.5.0_windows_x64"
+            "extract_dir": "EasySpider_windows_x64"
         }
     },
     "bin": "EasySpider.exe",
@@ -28,7 +28,6 @@
         "url": "https://github.com/NaiboWang/EasySpider/releases/download/v$version/EasySpider_$version_windows_x64.7z",
         "hash": {
             "mode": "download"
-        },
-        "extract_dir": "EasySpider_$version_windows_x64"
+        }
     }
 }
