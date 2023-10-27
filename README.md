@@ -30,3 +30,4 @@ wiki page.
 | PhotoTimeFix                    | [照片错误时间修复](https://github.com/Cryolitia/PhotoTimeFix)                                                      |
 | SynologyCloudSyncDecryptionTool | [Cloud Sync 加密数据进行解密的桌面工具](https://www.synology.cn/zh-cn/releaseNote/SynologyCloudSyncDecryptionTool) |
 | PortProxyGUI                    | [PortProxyGUI](https://github.com/zmjack/PortProxyGUI) / Windows 上的 TCP/IP 端口重定向                           |
+| EasySpider                      | [EasySpider](https://github.com/NaiboWang/EasySpider) / 易采集                                                   |
