@@ -1,24 +1,18 @@
-# Scoop Bucket
+# Scoop Bucket By Sliots
 
-<!-- Uncomment the following line after replacing placeholders -->
+[![Tests](https://github.com/Sliots/ScoopBucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Sliots/ScoopBucket/actions/workflows/ci.yml) [![Excavator](https://github.com/Sliots/ScoopBucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Sliots/ScoopBucket/actions/workflows/excavator.yml)
 
-<!-- [![Tests](https://github.com/Sliots/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Sliots/scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/Sliots/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Sliots/scoop-bucket/actions/workflows/excavator.yml) -->
+## 如何安装这些清单(manifests)？
 
-## How do I install these manifests?
-
-After manifests have been committed and pushed, run the following:
+提交并推送清单后，运行以下命令：
 
 ```pwsh
 scoop bucket add Sliots-ScoopBucket https://github.com/Sliots/ScoopBucket
 scoop install Sliots-ScoopBucket/<manifestname>
 ```
 
-## How do I contribute new manifests?
+同时，该清单已提交至 [kkzzhizhou/scoop-apps](https://github.com/kkzzhizhou/scoop-apps)  ，并被 [scoopbucket-third](https://github.com/cmontage/scoopbucket-third) 间接收录。
 
-To make a new manifest contribution, please read the [Contributing
-Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md)
-and [App Manifests](https://github.com/ScoopInstaller/Scoop/wiki/App-Manifests)
-wiki page.
 
 | manifest                        | Link / Desc                                                                                                     |
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------- |
