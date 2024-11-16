@@ -5,13 +5,8 @@
     "license": "GPL-3.0 license",
     "url": "https://github.com/yodhcn/dlsite-doujin-renamer/releases/download/0.2.9/dlsite-doujin-renamer.zip",
     "hash": "70c4e7cd0ecc05485256cd078530e97e6d6e1719b3afa0493f42e8d864047b25",
-    "persist": "dlsite-doujin-renamer/config.json",
-    "shortcuts": [
-        [
-            "dlsite-doujin-renamer/DLSite 同人作品重命名工具 v$version.exe",
-            "DLSite 同人作品重命名工具.exe"
-        ]
-    ],
+    "extract_dir": "dlsite-doujin-renamer",
+    "persist": "config.json",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/yodhcn/dlsite-doujin-renamer/releases/download/$version/dlsite-doujin-renamer.zip"
