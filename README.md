@@ -27,3 +27,5 @@ scoop install Sliots-ScoopBucket/<manifestname>
 | EasySpider                      | [EasySpider](https://github.com/NaiboWang/EasySpider) / 易采集                                                   |
 | fetch-github-hosts              | [fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) / 同步github的hosts工具                        |
 | arc_unpacker                    | [arc_unpacker](https://github.com/vn-tools/arc_unpacker) / 视觉小说解包（已归档）                                 |
+| beszel-agent                    | [beszel-agent](https://github.com/henrygd/beszel) / 轻量级服务器监控代理                                          |
+| snaz                            | [Snaz](https://github.com/JimmyAppelt/snaz) / OBS/XSplit 流媒体文本显示工具（已停更）                             |
