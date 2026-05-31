@@ -7,7 +7,7 @@
         "64bit": {
             "url": "https://github.com/NapNeko/NapCatQQ-Desktop/releases/download/v2.2.8/NapCatQQ-Desktop-2.2.8-x64.msi",
             "hash": "87904e4aa11d73a8d91a8ac1fd6acc78f4c382bfffec97cd50907052fa4dd86b",
-            "extract_dir": "SourceDir\\PFiles64\\NapCatQQ Desktop"
+            "extract_dir": "PFiles64\\NapCatQQ Desktop"
         }
     },
     "bin": "NapCatQQ-Desktop.exe",
@@ -24,7 +24,7 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/NapNeko/NapCatQQ-Desktop/releases/download/v$version/NapCatQQ-Desktop-$version-x64.msi",
-                "extract_dir": "SourceDir\\PFiles64\\NapCatQQ Desktop"
+                "extract_dir": "PFiles64\\NapCatQQ Desktop"
             }
         }
     }
