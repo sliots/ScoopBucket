@@ -29,3 +29,4 @@ scoop install Sliots-ScoopBucket/<manifestname>
 | arc_unpacker                    | [arc_unpacker](https://github.com/vn-tools/arc_unpacker) / 视觉小说解包（已归档）                                 |
 | beszel-agent                    | [beszel-agent](https://github.com/henrygd/beszel) / 轻量级服务器监控代理                                          |
 | snaz                            | [Snaz](https://github.com/JimmyAppelt/snaz) / OBS/XSplit 流媒体文本显示工具（已停更）                             |
+| yt-dlp-tauri                    | [yt-dlp-tauri](https://github.com/Chlience/yt-dlp-tauri) / 基于 yt-dlp 和 Tauri 2 的轻量桌面下载器                |
