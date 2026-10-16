@@ -31,3 +31,4 @@ scoop install Sliots-ScoopBucket/<manifestname>
 | BeszelAgentManager              | [BeszelAgentManager](https://github.com/MiranoVerhoef/BeszelAgentManager) / Beszel Agent 的 Windows 图形化管理器   |
 | snaz                            | [Snaz](https://github.com/JimmyAppelt/snaz) / OBS/XSplit 流媒体文本显示工具（已停更）                             |
 | yt-dlp-tauri                    | [yt-dlp-tauri](https://github.com/Chlience/yt-dlp-tauri) / 基于 yt-dlp 和 Tauri 2 的轻量桌面下载器                |
+| openmouse-desktop               | [OpenMouse Desktop](https://github.com/OpenMouse-Project/Desktop) / 支持多种鼠标的桌面配置工具                  |
