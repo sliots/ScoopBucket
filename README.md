@@ -34,3 +34,4 @@ scoop install Sliots-ScoopBucket/<manifestname>
 | openmouse-desktop               | [OpenMouse Desktop](https://github.com/OpenMouse-Project/Desktop) / 支持多种鼠标的桌面配置工具                  |
 | SnowLuma                        | [SnowLuma](https://github.com/SnowLuma/SnowLuma) / QQ 客户端 OneBot v11 运行时（完整版）                        |
 | SnowLuma-lite                   | [SnowLuma](https://github.com/SnowLuma/SnowLuma) / Lite 版本，需要 Node.js 24.22.1+（24.x）或 26.12.1+          |
+| open-diff                       | [Open Diff](https://github.com/kygo8/open-diff) / 开源文件与文件夹比较、合并和同步工具                          |
