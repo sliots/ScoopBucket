@@ -32,3 +32,5 @@ scoop install Sliots-ScoopBucket/<manifestname>
 | snaz                            | [Snaz](https://github.com/JimmyAppelt/snaz) / OBS/XSplit 流媒体文本显示工具（已停更）                             |
 | yt-dlp-tauri                    | [yt-dlp-tauri](https://github.com/Chlience/yt-dlp-tauri) / 基于 yt-dlp 和 Tauri 2 的轻量桌面下载器                |
 | openmouse-desktop               | [OpenMouse Desktop](https://github.com/OpenMouse-Project/Desktop) / 支持多种鼠标的桌面配置工具                  |
+| SnowLuma                        | [SnowLuma](https://github.com/SnowLuma/SnowLuma) / QQ 客户端 OneBot v11 运行时（完整版）                        |
+| SnowLuma-lite                   | [SnowLuma](https://github.com/SnowLuma/SnowLuma) / Lite 版本，需要 Node.js 24.22.1+（24.x）或 26.12.1+          |
