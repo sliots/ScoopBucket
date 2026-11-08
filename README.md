@@ -37,3 +37,4 @@ scoop install Sliots-ScoopBucket/<manifestname>
 | open-diff                       | [Open Diff](https://github.com/kygo8/open-diff) / 开源文件与文件夹比较、合并和同步工具                          |
 | peach                           | [Peach](https://github.com/peach-mitao/peach) / 本地优先的视频元数据刮削与媒体管理工具                           |
 | mygo-music                      | [MyGo Music](https://github.com/egoist/mygo-music) / 可通过插件扩展的原生本地音乐播放器                         |
+| codexPlusPlus                   | [Codex++](https://github.com/BigPizzaV3/CodexPlusPlus) / 统一管理 AI 编程 Agent 的本地网关与增强工具             |
