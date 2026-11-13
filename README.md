@@ -38,3 +38,7 @@ scoop install Sliots-ScoopBucket/<manifestname>
 | peach                           | [Peach](https://github.com/peach-mitao/peach) / 本地优先的视频元数据刮削与媒体管理工具                           |
 | mygo-music                      | [MyGo Music](https://github.com/egoist/mygo-music) / 可通过插件扩展的原生本地音乐播放器                         |
 | codexPlusPlus                   | [Codex++](https://github.com/BigPizzaV3/CodexPlusPlus) / 统一管理 AI 编程 Agent 的本地网关与增强工具             |
+
+## 如何贡献新清单？
+
+提交新清单前，请阅读 Scoop 的[贡献指南](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md)和[清单文档](https://github.com/ScoopInstaller/Scoop/wiki/App-Manifests)。
