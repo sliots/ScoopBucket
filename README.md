@@ -38,6 +38,7 @@ scoop install Sliots-ScoopBucket/<manifestname>
 | peach                           | [Peach](https://github.com/peach-mitao/peach) / 本地优先的视频元数据刮削与媒体管理工具                           |
 | mygo-music                      | [MyGo Music](https://github.com/egoist/mygo-music) / 可通过插件扩展的原生本地音乐播放器                         |
 | codexPlusPlus                   | [Codex++](https://github.com/BigPizzaV3/CodexPlusPlus) / 统一管理 AI 编程 Agent 的本地网关与增强工具             |
+| sony-pmca-re                    | [Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE) / Sony 相机 USB 工具，包含命令行版和图形界面               |
 
 ## 如何贡献新清单？
 

@@ -6,6 +6,7 @@
 - 新增应用清单时，先核对 Release 资产的真实目录结构和可执行文件名，再运行 `.\bin\checkver.ps1 -App <name>` 与 `.\bin\checkhashes.ps1 -App <name>`。
 - 上游只有预发布、导致 `/releases/latest` 返回 404 时，`checkver.github` 可指向 `https://api.github.com/repos/<owner>/<repo>/releases?per_page=1`，并用 JSONPath `$[0].tag_name` 读取版本。
 - 匿名 GitHub API 可能返回 403 速率限制；此时使用已连接的 GitHub 工具或 Scoop 的 GitHub token 查询 Release，不能据此判断仓库或资产不存在。
+- Sony-PMCA-RE 的 Windows 发布文件是独立 EXE，命令行版和图形版需分别下载，无需解压或额外安装 Python。`url`、`hash` 和 `autoupdate.url` 数组保持同序，并用 `#/pmca-console.exe`、`#/pmca-gui.exe` 固定文件名，避免升级后命令和快捷方式失效。
 
 ## 合并 BucketTemplate 上游更新
 
